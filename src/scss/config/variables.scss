@@ -1,10 +1,13 @@
 :root {
   /* Variables CSS */
-  --primary-button: hsl(322, 100%, 66%);
-  --very-pale-cyan: hsl(193, 100%, 96%);
-  --very-dark-cyan: hsl(192, 100%, 9%);
-  --grayish-blue: hsl(208, 11%, 55%);
+  --primary-pink-color: hsl(322, 100%, 66%);
+  --white-color: hsl(193, 100%, 96%);
+  --black-text-color: hsl(192, 100%, 9%);
+  --articles-color: hsl(208, 11%, 55%);
 }
 
 /* Variables SASS */
-$primary-button: var(--primary-button)
+$primary-pink-color: hsl(322, 100%, 66%);
+$white-color: hsl(193, 100%, 96%);
+$black-text-color: hsl(192, 100%, 9%);
+$articles-color: hsl(208, 11%, 55%);
